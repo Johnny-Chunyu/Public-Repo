@@ -1,2 +1,2 @@
 # Public-Repo
-I'm a rookie programmer.
+I'm a programmer.
